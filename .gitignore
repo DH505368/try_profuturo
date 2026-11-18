@@ -1,0 +1,22 @@
+# Archivos temporales y del sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Entornos y dependencias
+.venv/
+venv/
+env/
+node_modules/
+
+# Archivos de configuración local
+.env
+.env.*
+!.env.example
+
+# Resultados de compilación
+bin/
+dist/
+build/
+out/
