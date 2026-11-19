@@ -2,7 +2,7 @@
 
 ## Participante
 
-Nombre del participante: SIN ASIGNAR
+Nombre del participante: DIEGO HERNANDEZ
 
 ## Reglas
 
