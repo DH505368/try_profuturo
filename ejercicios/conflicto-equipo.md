@@ -2,8 +2,7 @@
 
 ## Participante
 
-Nombre del participante: PEPE
-Nombre del participante: Diego Hernandez
+Nombre del participante: SIN ASIGNAR
 
 ## Reglas
 
