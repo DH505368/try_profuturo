@@ -2,7 +2,7 @@
 
 ## Participante
 
-Nombre del participante: SIN ASIGNAR
+Nombre del participante: Heidi Fabián Martínez 
 
 ## Reglas
 
