@@ -2,7 +2,7 @@
 
 ## Participante
 
-Nombre del participante: SIN_ASIGNAR
+Nombre del participante: PEPE
 
 ## Reglas
 
