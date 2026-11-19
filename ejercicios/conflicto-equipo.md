@@ -2,6 +2,7 @@
 
 ## Participante
 
+Nombre del participante: ROUSSE
 Nombre del participante: Braulio Nava
 
 ## Reglas
